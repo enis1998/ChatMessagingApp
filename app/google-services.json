@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898261094699",
+    "project_id": "chatmessagingapp-fec98",
+    "firebase_url": "https://chatmessagingapp-fec98-default-rtdb.europe-west1.firebasedatabase.app/",
+    "storage_bucket": "chatmessagingapp-fec98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898261094699:android:1f6c0f43942d11eab1b56e",
+        "android_client_info": {
+          "package_name": "com.ebm.chatmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898261094699-7uqp0rd8tfc7b4goj9jb1km6rbuq1irs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdJ696GDXpuNaP9pubgtCjlpKRkDSKBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898261094699-7uqp0rd8tfc7b4goj9jb1km6rbuq1irs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
